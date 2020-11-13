@@ -70,7 +70,7 @@
                         </li>
                         <li>
                             <span class="overhead">Telefone</span><a
-                                href="https://api.whatsapp.com/send?phone=55xxxxxxxxxxx">+55 (xx) xxxxx-xxxx </a>
+                                href="https://api.whatsapp.com/send?phone=5521xxxxxxxxx">+55 (21) xxxxx-xxxx </a>
                         </li>
                     </ul>
                     <ul class="header__contact">
@@ -78,7 +78,7 @@
                             <span class="overhead">
                                 Endereço
                             </span>
-                            Endereço Comercial - UF
+                            Endereço Comercial - RJ
                         </li>
                     </ul>
                 </div>
@@ -94,7 +94,7 @@
                             <li class="nav__item"><a href="works.html"><i class="icon-codesandbox"></i>Portifólio</a>
                             </li>
                             <!--<li class="nav__item"><a href="blog.html"><i class="icon-book-open"></i>Blog</a></li>-->
-                            <li class="nav__item"><a href="contact.html"><i class="icon-book"></i>Contato</a></li>
+                            <li class="nav__item"><a href="contact.php"><i class="icon-book"></i>Contato</a></li>
                         </ul>
                     </div>
                 </aside>
@@ -155,7 +155,7 @@
                         </div>
                     </div>
                     <!-- Footer -->
-                    <footer class="footer">© Iury Gomes de Oliveira</footer>
+                    <footer class="footer">© Beatriz Soutilha</footer>
                 </div>
             </div>
         </div>
